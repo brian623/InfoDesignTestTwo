@@ -1,0 +1,359 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1722973161390" clover="3.2.0">
+  <project timestamp="1722973161390" name="All files">
+    <metrics statements="263" coveredstatements="253" conditionals="33" coveredconditionals="21" methods="66" coveredmethods="60" elements="362" coveredelements="334" complexity="0" loc="263" ncloc="263" packages="9" files="21" classes="21"/>
+    <package name="components">
+      <metrics statements="83" coveredstatements="81" conditionals="8" coveredconditionals="4" methods="15" coveredmethods="13"/>
+      <file name="Consume.tsx" path="C:\Users\bryan\OneDrive\Documents\Desarrollos\test-frontend-income\src\components\Consume.tsx">
+        <metrics statements="19" coveredstatements="19" conditionals="2" coveredconditionals="1" methods="2" coveredmethods="2"/>
+        <line num="1" count="2" type="stmt"/>
+        <line num="2" count="2" type="stmt"/>
+        <line num="3" count="2" type="stmt"/>
+        <line num="4" count="2" type="stmt"/>
+        <line num="5" count="2" type="stmt"/>
+        <line num="6" count="2" type="stmt"/>
+        <line num="7" count="2" type="stmt"/>
+        <line num="8" count="2" type="stmt"/>
+        <line num="10" count="2" type="stmt"/>
+        <line num="11" count="7" type="stmt"/>
+        <line num="12" count="6" type="stmt"/>
+        <line num="13" count="6" type="stmt"/>
+        <line num="14" count="6" type="stmt"/>
+        <line num="16" count="6" type="stmt"/>
+        <line num="17" count="2" type="stmt"/>
+        <line num="20" count="6" type="cond" truecount="1" falsecount="0"/>
+        <line num="21" count="4" type="cond" truecount="0" falsecount="1"/>
+        <line num="23" count="4" type="stmt"/>
+        <line num="33" count="2" type="stmt"/>
+      </file>
+      <file name="Costs.tsx" path="C:\Users\bryan\OneDrive\Documents\Desarrollos\test-frontend-income\src\components\Costs.tsx">
+        <metrics statements="19" coveredstatements="19" conditionals="2" coveredconditionals="1" methods="2" coveredmethods="2"/>
+        <line num="1" count="2" type="stmt"/>
+        <line num="2" count="2" type="stmt"/>
+        <line num="3" count="2" type="stmt"/>
+        <line num="4" count="2" type="stmt"/>
+        <line num="5" count="2" type="stmt"/>
+        <line num="6" count="2" type="stmt"/>
+        <line num="7" count="2" type="stmt"/>
+        <line num="8" count="2" type="stmt"/>
+        <line num="10" count="2" type="stmt"/>
+        <line num="11" count="7" type="stmt"/>
+        <line num="12" count="6" type="stmt"/>
+        <line num="13" count="6" type="stmt"/>
+        <line num="14" count="6" type="stmt"/>
+        <line num="16" count="6" type="stmt"/>
+        <line num="17" count="2" type="stmt"/>
+        <line num="20" count="6" type="cond" truecount="1" falsecount="0"/>
+        <line num="21" count="4" type="cond" truecount="0" falsecount="1"/>
+        <line num="23" count="4" type="stmt"/>
+        <line num="33" count="2" type="stmt"/>
+      </file>
+      <file name="EnergyTable.tsx" path="C:\Users\bryan\OneDrive\Documents\Desarrollos\test-frontend-income\src\components\EnergyTable.tsx">
+        <metrics statements="26" coveredstatements="24" conditionals="2" coveredconditionals="1" methods="9" coveredmethods="7"/>
+        <line num="1" count="2" type="stmt"/>
+        <line num="2" count="2" type="stmt"/>
+        <line num="8" count="2" type="stmt"/>
+        <line num="9" count="2" type="stmt"/>
+        <line num="10" count="2" type="stmt"/>
+        <line num="11" count="2" type="stmt"/>
+        <line num="13" count="2" type="stmt"/>
+        <line num="14" count="8" type="stmt"/>
+        <line num="15" count="7" type="stmt"/>
+        <line num="16" count="7" type="stmt"/>
+        <line num="17" count="7" type="stmt"/>
+        <line num="19" count="7" type="stmt"/>
+        <line num="24" count="7" type="stmt"/>
+        <line num="25" count="2" type="stmt"/>
+        <line num="28" count="7" type="stmt"/>
+        <line num="51" count="7" type="stmt"/>
+        <line num="62" count="7" type="cond" truecount="1" falsecount="0"/>
+        <line num="63" count="5" type="cond" truecount="0" falsecount="1"/>
+        <line num="65" count="5" type="stmt"/>
+        <line num="70" count="5" type="stmt"/>
+        <line num="72" count="25" type="stmt"/>
+        <line num="79" count="45" type="stmt"/>
+        <line num="81" count="225" type="stmt"/>
+        <line num="90" count="0" type="stmt"/>
+        <line num="97" count="0" type="stmt"/>
+        <line num="108" count="2" type="stmt"/>
+      </file>
+      <file name="Losts.tsx" path="C:\Users\bryan\OneDrive\Documents\Desarrollos\test-frontend-income\src\components\Losts.tsx">
+        <metrics statements="19" coveredstatements="19" conditionals="2" coveredconditionals="1" methods="2" coveredmethods="2"/>
+        <line num="1" count="2" type="stmt"/>
+        <line num="2" count="2" type="stmt"/>
+        <line num="3" count="2" type="stmt"/>
+        <line num="4" count="2" type="stmt"/>
+        <line num="5" count="2" type="stmt"/>
+        <line num="6" count="2" type="stmt"/>
+        <line num="7" count="2" type="stmt"/>
+        <line num="8" count="2" type="stmt"/>
+        <line num="10" count="2" type="stmt"/>
+        <line num="11" count="7" type="stmt"/>
+        <line num="12" count="6" type="stmt"/>
+        <line num="13" count="6" type="stmt"/>
+        <line num="14" count="6" type="stmt"/>
+        <line num="16" count="6" type="stmt"/>
+        <line num="17" count="2" type="stmt"/>
+        <line num="20" count="6" type="cond" truecount="1" falsecount="0"/>
+        <line num="21" count="4" type="cond" truecount="0" falsecount="1"/>
+        <line num="23" count="4" type="stmt"/>
+        <line num="33" count="2" type="stmt"/>
+      </file>
+    </package>
+    <package name="pages">
+      <metrics statements="8" coveredstatements="8" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <file name="home.tsx" path="C:\Users\bryan\OneDrive\Documents\Desarrollos\test-frontend-income\src\pages\home.tsx">
+        <metrics statements="8" coveredstatements="8" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="5" count="1" type="stmt"/>
+        <line num="6" count="1" type="stmt"/>
+        <line num="8" count="1" type="stmt"/>
+        <line num="9" count="2" type="stmt"/>
+        <line num="29" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="store">
+      <metrics statements="10" coveredstatements="10" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <file name="hooks.ts" path="C:\Users\bryan\OneDrive\Documents\Desarrollos\test-frontend-income\src\store\hooks.ts">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="1" count="5" type="stmt"/>
+        <line num="4" count="29" type="stmt"/>
+        <line num="5" count="5" type="stmt"/>
+      </file>
+      <file name="index.ts" path="C:\Users\bryan\OneDrive\Documents\Desarrollos\test-frontend-income\src\store\index.ts">
+        <metrics statements="7" coveredstatements="7" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="5" type="stmt"/>
+        <line num="2" count="5" type="stmt"/>
+        <line num="3" count="5" type="stmt"/>
+        <line num="4" count="5" type="stmt"/>
+        <line num="5" count="5" type="stmt"/>
+        <line num="7" count="5" type="stmt"/>
+        <line num="19" count="5" type="stmt"/>
+      </file>
+    </package>
+    <package name="store.consume">
+      <metrics statements="33" coveredstatements="31" conditionals="5" coveredconditionals="3" methods="11" coveredmethods="10"/>
+      <file name="consumeSelectors.ts" path="C:\Users\bryan\OneDrive\Documents\Desarrollos\test-frontend-income\src\store\consume\consumeSelectors.ts">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="3"/>
+        <line num="3" count="21" type="stmt"/>
+        <line num="4" count="20" type="stmt"/>
+        <line num="5" count="22" type="stmt"/>
+      </file>
+      <file name="consumeSlice.ts" path="C:\Users\bryan\OneDrive\Documents\Desarrollos\test-frontend-income\src\store\consume\consumeSlice.ts">
+        <metrics statements="12" coveredstatements="10" conditionals="2" coveredconditionals="0" methods="4" coveredmethods="3"/>
+        <line num="1" count="5" type="stmt"/>
+        <line num="2" count="5" type="stmt"/>
+        <line num="11" count="5" type="stmt"/>
+        <line num="17" count="5" type="stmt"/>
+        <line num="22" count="5" type="stmt"/>
+        <line num="24" count="2" type="stmt"/>
+        <line num="25" count="2" type="stmt"/>
+        <line num="28" count="2" type="stmt"/>
+        <line num="29" count="2" type="stmt"/>
+        <line num="32" count="0" type="stmt"/>
+        <line num="33" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="38" count="5" type="stmt"/>
+      </file>
+      <file name="consumeThunks.ts" path="C:\Users\bryan\OneDrive\Documents\Desarrollos\test-frontend-income\src\store\consume\consumeThunks.ts">
+        <metrics statements="18" coveredstatements="18" conditionals="3" coveredconditionals="3" methods="4" coveredmethods="4"/>
+        <line num="1" count="5" type="stmt"/>
+        <line num="2" count="5" type="stmt"/>
+        <line num="4" count="5" type="stmt"/>
+        <line num="6" count="5" type="stmt"/>
+        <line num="8" count="2" type="stmt"/>
+        <line num="9" count="2" type="stmt"/>
+        <line num="11" count="2" type="stmt"/>
+        <line num="12" count="2" type="stmt"/>
+        <line num="14" count="2" type="stmt"/>
+        <line num="15" count="10" type="cond" truecount="1" falsecount="0"/>
+        <line num="16" count="10" type="stmt"/>
+        <line num="18" count="10" type="stmt"/>
+        <line num="21" count="2" type="stmt"/>
+        <line num="22" count="100" type="stmt"/>
+        <line num="23" count="100" type="cond" truecount="2" falsecount="0"/>
+        <line num="24" count="100" type="stmt"/>
+        <line num="25" count="100" type="stmt"/>
+        <line num="28" count="10" type="stmt"/>
+      </file>
+    </package>
+    <package name="store.costs">
+      <metrics statements="35" coveredstatements="33" conditionals="5" coveredconditionals="3" methods="11" coveredmethods="10"/>
+      <file name="costsSelectors.ts" path="C:\Users\bryan\OneDrive\Documents\Desarrollos\test-frontend-income\src\store\costs\costsSelectors.ts">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="3"/>
+        <line num="3" count="21" type="stmt"/>
+        <line num="4" count="20" type="stmt"/>
+        <line num="5" count="22" type="stmt"/>
+      </file>
+      <file name="costsSlice.ts" path="C:\Users\bryan\OneDrive\Documents\Desarrollos\test-frontend-income\src\store\costs\costsSlice.ts">
+        <metrics statements="14" coveredstatements="12" conditionals="2" coveredconditionals="0" methods="4" coveredmethods="3"/>
+        <line num="1" count="5" type="stmt"/>
+        <line num="2" count="5" type="stmt"/>
+        <line num="11" count="5" type="stmt"/>
+        <line num="17" count="5" type="stmt"/>
+        <line num="22" count="5" type="stmt"/>
+        <line num="23" count="2" type="stmt"/>
+        <line num="24" count="2" type="stmt"/>
+        <line num="26" count="5" type="stmt"/>
+        <line num="27" count="2" type="stmt"/>
+        <line num="28" count="2" type="stmt"/>
+        <line num="30" count="5" type="stmt"/>
+        <line num="31" count="0" type="stmt"/>
+        <line num="32" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="37" count="5" type="stmt"/>
+      </file>
+      <file name="costsThunks.ts" path="C:\Users\bryan\OneDrive\Documents\Desarrollos\test-frontend-income\src\store\costs\costsThunks.ts">
+        <metrics statements="18" coveredstatements="18" conditionals="3" coveredconditionals="3" methods="4" coveredmethods="4"/>
+        <line num="1" count="5" type="stmt"/>
+        <line num="2" count="5" type="stmt"/>
+        <line num="4" count="5" type="stmt"/>
+        <line num="6" count="5" type="stmt"/>
+        <line num="8" count="2" type="stmt"/>
+        <line num="9" count="2" type="stmt"/>
+        <line num="11" count="2" type="stmt"/>
+        <line num="12" count="2" type="stmt"/>
+        <line num="14" count="2" type="stmt"/>
+        <line num="15" count="10" type="cond" truecount="1" falsecount="0"/>
+        <line num="16" count="10" type="stmt"/>
+        <line num="18" count="10" type="stmt"/>
+        <line num="21" count="2" type="stmt"/>
+        <line num="22" count="140" type="stmt"/>
+        <line num="23" count="140" type="cond" truecount="2" falsecount="0"/>
+        <line num="24" count="140" type="stmt"/>
+        <line num="25" count="140" type="stmt"/>
+        <line num="28" count="10" type="stmt"/>
+      </file>
+    </package>
+    <package name="store.energy">
+      <metrics statements="42" coveredstatements="40" conditionals="8" coveredconditionals="6" methods="11" coveredmethods="10"/>
+      <file name="energySelectors.ts" path="C:\Users\bryan\OneDrive\Documents\Desarrollos\test-frontend-income\src\store\energy\energySelectors.ts">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="3"/>
+        <line num="3" count="16" type="stmt"/>
+        <line num="4" count="12" type="stmt"/>
+        <line num="5" count="22" type="stmt"/>
+      </file>
+      <file name="energySlice.ts" path="C:\Users\bryan\OneDrive\Documents\Desarrollos\test-frontend-income\src\store\energy\energySlice.ts">
+        <metrics statements="14" coveredstatements="12" conditionals="2" coveredconditionals="0" methods="4" coveredmethods="3"/>
+        <line num="1" count="5" type="stmt"/>
+        <line num="3" count="5" type="stmt"/>
+        <line num="11" count="5" type="stmt"/>
+        <line num="17" count="5" type="stmt"/>
+        <line num="22" count="5" type="stmt"/>
+        <line num="23" count="2" type="stmt"/>
+        <line num="24" count="2" type="stmt"/>
+        <line num="26" count="5" type="stmt"/>
+        <line num="27" count="2" type="stmt"/>
+        <line num="28" count="2" type="stmt"/>
+        <line num="30" count="5" type="stmt"/>
+        <line num="31" count="0" type="stmt"/>
+        <line num="32" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="37" count="5" type="stmt"/>
+      </file>
+      <file name="energyThunks.ts" path="C:\Users\bryan\OneDrive\Documents\Desarrollos\test-frontend-income\src\store\energy\energyThunks.ts">
+        <metrics statements="25" coveredstatements="25" conditionals="6" coveredconditionals="6" methods="4" coveredmethods="4"/>
+        <line num="1" count="5" type="stmt"/>
+        <line num="2" count="5" type="stmt"/>
+        <line num="4" count="5" type="stmt"/>
+        <line num="6" count="5" type="stmt"/>
+        <line num="8" count="2" type="stmt"/>
+        <line num="9" count="2" type="stmt"/>
+        <line num="12" count="2" type="stmt"/>
+        <line num="13" count="100" type="stmt"/>
+        <line num="14" count="100" type="stmt"/>
+        <line num="15" count="100" type="cond" truecount="2" falsecount="0"/>
+        <line num="16" count="100" type="stmt"/>
+        <line num="17" count="100" type="stmt"/>
+        <line num="21" count="2" type="stmt"/>
+        <line num="22" count="140" type="stmt"/>
+        <line num="23" count="140" type="stmt"/>
+        <line num="24" count="140" type="cond" truecount="2" falsecount="0"/>
+        <line num="25" count="140" type="stmt"/>
+        <line num="26" count="140" type="stmt"/>
+        <line num="30" count="2" type="stmt"/>
+        <line num="31" count="130" type="stmt"/>
+        <line num="32" count="130" type="stmt"/>
+        <line num="33" count="130" type="cond" truecount="2" falsecount="0"/>
+        <line num="34" count="130" type="stmt"/>
+        <line num="35" count="130" type="stmt"/>
+        <line num="38" count="2" type="stmt"/>
+      </file>
+    </package>
+    <package name="store.losts">
+      <metrics statements="35" coveredstatements="33" conditionals="5" coveredconditionals="3" methods="11" coveredmethods="10"/>
+      <file name="lostsSelectors.ts" path="C:\Users\bryan\OneDrive\Documents\Desarrollos\test-frontend-income\src\store\losts\lostsSelectors.ts">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="3"/>
+        <line num="3" count="20" type="stmt"/>
+        <line num="4" count="19" type="stmt"/>
+        <line num="5" count="21" type="stmt"/>
+      </file>
+      <file name="lostsSlice.ts" path="C:\Users\bryan\OneDrive\Documents\Desarrollos\test-frontend-income\src\store\losts\lostsSlice.ts">
+        <metrics statements="14" coveredstatements="12" conditionals="2" coveredconditionals="0" methods="4" coveredmethods="3"/>
+        <line num="1" count="5" type="stmt"/>
+        <line num="2" count="5" type="stmt"/>
+        <line num="11" count="5" type="stmt"/>
+        <line num="17" count="5" type="stmt"/>
+        <line num="22" count="5" type="stmt"/>
+        <line num="23" count="2" type="stmt"/>
+        <line num="24" count="2" type="stmt"/>
+        <line num="26" count="5" type="stmt"/>
+        <line num="27" count="2" type="stmt"/>
+        <line num="28" count="2" type="stmt"/>
+        <line num="30" count="5" type="stmt"/>
+        <line num="31" count="0" type="stmt"/>
+        <line num="32" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="37" count="5" type="stmt"/>
+      </file>
+      <file name="lostsThunks.ts" path="C:\Users\bryan\OneDrive\Documents\Desarrollos\test-frontend-income\src\store\losts\lostsThunks.ts">
+        <metrics statements="18" coveredstatements="18" conditionals="3" coveredconditionals="3" methods="4" coveredmethods="4"/>
+        <line num="1" count="5" type="stmt"/>
+        <line num="2" count="5" type="stmt"/>
+        <line num="4" count="5" type="stmt"/>
+        <line num="6" count="5" type="stmt"/>
+        <line num="8" count="2" type="stmt"/>
+        <line num="9" count="2" type="stmt"/>
+        <line num="11" count="2" type="stmt"/>
+        <line num="12" count="2" type="stmt"/>
+        <line num="14" count="2" type="stmt"/>
+        <line num="15" count="10" type="cond" truecount="1" falsecount="0"/>
+        <line num="16" count="10" type="stmt"/>
+        <line num="18" count="10" type="stmt"/>
+        <line num="21" count="2" type="stmt"/>
+        <line num="22" count="130" type="stmt"/>
+        <line num="23" count="130" type="cond" truecount="2" falsecount="0"/>
+        <line num="24" count="130" type="stmt"/>
+        <line num="25" count="130" type="stmt"/>
+        <line num="28" count="10" type="stmt"/>
+      </file>
+    </package>
+    <package name="utils.elements">
+      <metrics statements="14" coveredstatements="14" conditionals="2" coveredconditionals="2" methods="5" coveredmethods="5"/>
+      <file name="elements.ts" path="C:\Users\bryan\OneDrive\Documents\Desarrollos\test-frontend-income\src\utils\elements\elements.ts">
+        <metrics statements="14" coveredstatements="14" conditionals="2" coveredconditionals="2" methods="5" coveredmethods="5"/>
+        <line num="1" count="5" type="stmt"/>
+        <line num="4" count="5" type="stmt"/>
+        <line num="5" count="740" type="stmt"/>
+        <line num="7" count="740" type="cond" truecount="2" falsecount="0"/>
+        <line num="10" count="5" type="stmt"/>
+        <line num="11" count="30" type="stmt"/>
+        <line num="12" count="30" type="stmt"/>
+        <line num="13" count="30" type="stmt"/>
+        <line num="14" count="180" type="stmt"/>
+        <line num="16" count="30" type="stmt"/>
+        <line num="19" count="5" type="stmt"/>
+        <line num="20" count="30" type="stmt"/>
+        <line num="22" count="370" type="stmt"/>
+        <line num="28" count="12" type="stmt"/>
+      </file>
+    </package>
+    <package name="utils.mocks">
+      <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="data.mock.ts" path="C:\Users\bryan\OneDrive\Documents\Desarrollos\test-frontend-income\src\utils\mocks\data.mock.ts">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="3" count="5" type="stmt"/>
+        <line num="356" count="5" type="stmt"/>
+        <line num="849" count="5" type="stmt"/>
+      </file>
+    </package>
+  </project>
+</coverage>
